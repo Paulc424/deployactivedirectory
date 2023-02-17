@@ -30,13 +30,18 @@ Depictions of Deployment and configuration steps
 <p>
   
 After creating your two virtual machines and resource group, verify that both virtual machines are both on the same network.
-<img src="https://i.imgur.com/INUuFR9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/tNMi7IV.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+ 
+ <img src="https://i.imgur.com/INUuFR9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+  <img src="https://i.imgur.com/tNMi7IV.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
   
 Log into your virtual machine using remote desktop and with the public IP address of your virtual machine.
-<img src="https://i.imgur.com/hE2Gpmk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
-<img src="https://i.imgur.com/RBt89Vq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+  <img src="https://i.imgur.com/hE2Gpmk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+
+  <img src="https://i.imgur.com/RBt89Vq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   
   From your remote desktop, download Wireshark. Once you have Wireshark installed, start it up and scan for ICMP traffic.
 <img src="https://i.imgur.com/0BjDIra.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -47,7 +52,9 @@ Once you have Wireshark installed, start it up and scan for ICMP traffic.
 </p>
 
 Open Windows Firewall with Advanced Security and go to enable rules, and enable 3 ICMP rules that are named "Core Networking".
+
 <img src="https://i.imgur.com/1PTc75z.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 <p>
 To install Active Directory, click on the yellow exclamation point on top right corner and choose Active Directory Domain Services
 </p>
