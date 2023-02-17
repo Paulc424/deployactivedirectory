@@ -27,9 +27,9 @@ This step by step guide outlines the implementation of on-premises Active Direct
 - From your remote desktop, download Wireshark. Once you have Wireshark installed, start it up and scan for ICMP traffic.
 
 Depictions of Deployment and configuration steps
-
 <p>
-  After creating your two virtual machines and resource group, verify that both virtual machines are both on the same network.
+  
+After creating your two virtual machines and resource group, verify that both virtual machines are both on the same network.
 <img src="https://i.imgur.com/INUuFR9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/tNMi7IV.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
