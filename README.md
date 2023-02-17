@@ -30,9 +30,7 @@ Depictions of Deployment and configuration steps
 
 <p>
   After creating your two virtual machines and resource group, verify that both virtual machines are both on the same network.
-
-   <img src="https://i.imgur.com/INUuFR9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-  
+<img src="https://i.imgur.com/INUuFR9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   <img src="https://i.imgur.com/tNMi7IV.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
   
